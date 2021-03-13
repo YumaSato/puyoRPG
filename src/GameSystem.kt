@@ -86,6 +86,6 @@ fun choice(numOfChoice : Int): Int {
         }
     }while(taku>=numOfChoice)
 
-    println("${taku}を選択しました。")
+    println("${taku}を選択しました。afafafafafafafafafafafafa")
     return taku
 }
