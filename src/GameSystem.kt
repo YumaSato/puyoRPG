@@ -57,7 +57,7 @@ fun main() {
             p2.subChain[0] = 2
             p2.subChain[1] = 1000
             p2.defence = 2
-            println("メリ土台式の速攻土台を組みました。2ダブを持ちました。")
+            println("メリ土台式の速攻土台を組みました。2ダブを持ちました。afafafafafafafafafafafa")
         }
 
     }
